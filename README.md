@@ -25,18 +25,18 @@ Complete the function `prepareForApi` in the file [utils/menu.js](utils/menu.js)
 -   `slug`: A slugified version of the name (check /utils/helpers.js) (e.g. hot-chocolate, gingerbread-latte, peppermint-cappuccino, etc.)
     Example:
 
-         ```javascript
-         [
-             {
-                 drink: 'Latte',
-                 flavor: 'Gingerbread',
-                 price: 4.5,
-                 name: 'Gingerbread Latte',
-                 slug: 'gingerbread-latte',
-             },
-             ...
-         ]
-         ```
+```javascript
+[
+    {
+        drink: 'Latte',
+        flavor: 'Gingerbread',
+        price: 4.5,
+        name: 'Gingerbread Latte',
+        slug: 'gingerbread-latte',
+    },
+    ...
+]
+```
 
 ### 2️⃣ Second step
 
